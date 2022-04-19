@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raza Anis</h1>
-<h3 align="center">A passionate senior software engineer. JS Full-Stack and MEAN/MERN/PERM Stack Developer</h3>
+<h3 align="center">A passionate senior software engineer. JS Full-Stack and MEAN/MERN/PERN Stack Developer</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranis2017" alt="ranis2017" /></a> </p> -->
 
