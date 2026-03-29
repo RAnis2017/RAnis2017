@@ -1,33 +1,91 @@
-<h1 align="center">Hi 👋, I'm Muhammad Raza Anis</h1>
-<h3 align="center">A passionate senior software engineer. JS Full-Stack and MEAN/MERN/PERN Stack Developer</h3>
+<h1 align="center">Raza Anis</h1>
+<h3 align="center">Senior Full-Stack Engineer | Node.js, TypeScript, React, Next.js, NestJS</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranis2017" alt="ranis2017" /></a> </p> -->
-
-- 🔭 I’m currently working on [QLU](https://www.qlu.ai/)
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raza-anis-genesishex/](https://www.linkedin.com/in/raza-anis-genesishex/)
-
-- 💬 Ask me about **React, Angular, Node.js, Nextjs**
-
-- 📫 How to reach me **razaanis123@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/raza-anis-genesishex/](https://www.linkedin.com/in/raza-anis-genesishex/)
-
-- ⚡ Fun fact **I am a badass gamer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raza-anis-genesishex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raza-anis-genesishex" height="30" width="40" /></a>
-<a href="https://instagram.com/razaanis_genhex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razaanis_genhex" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zeyfra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zeyfra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/razaanis123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="razaanis123" height="30" width="40" /></a>
+<p align="center">
+  Berlin, Germany ·
+  <a href="mailto:razaanis123@gmail.com">razaanis123@gmail.com</a> ·
+  <a href="https://linkedin.com/in/raza-anis">LinkedIn</a>
 </p>
 
-<a href="https://app.daily.dev/RAnis2017"><img src="https://api.daily.dev/devcards/0b0282cddabb4188b323374998a809d1.png?r=ov4" width="400" alt="Raza Anis's Dev Card"/></a>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## About Me
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranis2017&show_icons=true&locale=en&layout=compact" alt="ranis2017" /></p> -->
+Senior Full-Stack Engineer with 7+ years of experience building scalable customer-facing applications and backend services.
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranis2017&show_icons=true&locale=en" alt="ranis2017" /></p> -->
+I specialize in:
+- high-throughput backend systems and microservices
+- REST APIs and asynchronous/event-driven architectures
+- production delivery using cloud-native DevOps workflows
+
+I follow an AI-first engineering approach: structured planning, reusable workflows, and fast execution without compromising production quality.
+
+---
+
+## Core Skills
+
+- **Frontend:** React, Next.js, Angular, TypeScript  
+- **Backend:** Node.js, NestJS, Express.js, REST APIs, Microservices  
+- **Databases & Search:** MongoDB, PostgreSQL, MySQL, DynamoDB, MS SQL Server, Elasticsearch, OpenSearch  
+- **Messaging & Async:** RabbitMQ, Kafka, Redis queues, AWS SQS/SNS, sockets  
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Jenkins, Bitbucket Pipelines  
+- **Quality & Operations:** Jest, Mocha, Cypress, Playwright, monitoring, alerting, incident response, RCA  
+- **Applied AI:** OpenAI APIs, ElevenLabs, document/PDF deep search workflows  
+
+---
+
+## Experience
+
+### Senior Software Engineer — Emirates NBD  
+**Nov 2024 – Present**
+
+- Build enterprise banking features using React, Node.js, and TypeScript.
+- Design and maintain scalable microservices and REST APIs across SQL/NoSQL systems.
+- Built a Golang service for high-throughput Kafka event processing.
+- Delivered an internal AI-powered Executive Podcast Intelligence platform (90% MVP in 4 days).
+- Delivered a Digital Collections platform that recovered **AED 783K+** in the first two months.
+- Own implementation, testing, release support, and production stability.
+
+### Lead Software Engineer — Qavi Technologies  
+**Mar 2019 – Nov 2024**
+
+- Delivered full-stack platforms with React, Next.js, Node.js, NestJS, and TypeScript.
+- Built integration-heavy, asynchronous backend workflows with RabbitMQ.
+- Implemented CI/CD pipelines with Jenkins, GitLab CI/CD, Bitbucket Pipelines, and Docker.
+- Mentored engineers and contributed to architecture/design decisions.
+
+### Principal Software Engineer — Zepcom  
+**Apr 2022 – Jun 2023**
+
+- Developed production React UIs and Node.js backend services.
+- Implemented delivery pipelines with GitLab CI and Docker.
+- Worked across AWS services including EC2, Lambda, S3, SNS, and SQS.
+
+### Senior Software Engineer — Qlu  
+**Sep 2021 – May 2022**
+
+- Built full-stack features with React and Node.js.
+- Implemented real-time and queue-based workflows using Redis and sockets.
+- Worked with PostgreSQL and DynamoDB.
+
+---
+
+## Selected Projects
+
+- **Galerie Munk (Germany):** Scalable art e-commerce platform (Node.js + Angular), with Elasticsearch-powered discovery and analytics.
+- **AI Podcast Intelligence Platform (Emirates NBD):** OpenAI + ElevenLabs based internal research platform.
+- **Hype (Enterprise Management System):** Full-stack platform with cloud-native deployment, Docker/Kubernetes, and AI document/PDF deep-search workflows.
+
+---
+
+## Education
+
+- **MS, Data Science** — NED University of Engineering and Technology (2023)  
+- **BS, Software Engineering** — University of Karachi (UBIT) (2018)
+
+---
+
+## Let’s Connect
+
+- **Email:** [razaanis123@gmail.com](mailto:razaanis123@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/raza-anis](https://linkedin.com/in/raza-anis)
